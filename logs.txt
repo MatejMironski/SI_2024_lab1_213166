@@ -1,0 +1,33 @@
+commit 85cbc151176e531c5d769e55a72517b88324f01e (HEAD -> master, origin/master)
+Merge: 420e134 c4e6810
+Author: MatejMironski <167017531+MatejMironski@users.noreply.github.com>
+Date:   Sun Apr 14 19:54:23 2024 +0200
+
+    Merge pull request #2 from MatejMironski/bug2
+
+    Bug2
+
+commit c4e6810449cc399419cd37ef02ed8ee5b204c8fa (origin/bug2, bug2)
+Merge: 1c06592 420e134
+Author: MatejMironski <matej.mironski.02@gmail.com>
+Date:   Sun Apr 14 19:53:41 2024 +0200
+
+    Resolve conflicts
+
+commit 420e13467eab2529fd7a872e907c7a62b47c82b1
+Merge: d8141b3 2a2b9fd
+Author: MatejMironski <167017531+MatejMironski@users.noreply.github.com>
+Date:   Sun Apr 14 19:39:05 2024 +0200
+
+    Merge pull request #1 from MatejMironski/bug1
+
+    Bug1
+
+commit 1c06592d7cef2e13cef9acf07c9a7c241fbcfe63
+Author: MatejMironski <matej.mironski.02@gmail.com>
+Date:   Sun Apr 14 19:33:58 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 2a2b9fd96fcb81915c4ec2b5065eaa481b2972bb (origin/bug1, bug1)
+:
